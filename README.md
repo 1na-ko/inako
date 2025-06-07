@@ -1,1 +1,3 @@
 # inako
+
+**Welcome!**
